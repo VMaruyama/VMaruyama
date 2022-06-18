@@ -10,7 +10,7 @@ KD MEU CARA DE UX/UI PRA ME JULGAR....
   
  ![Snake animation](https://github.com/thaizacapelao/thaizacapelao/blob/output/github-contribution-grid-snake.svg)
   
- ![](https://komarev.com/ghpvc/?username=thaizacapelao&color=green)
+ ![](https://komarev.com/ghpvc/?username=vitormaruyama&color=green)
   
   </div>
  
