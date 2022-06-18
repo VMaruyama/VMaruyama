@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+KD MEU CARA DE UX/UI PRA ME JULGAR....
 
  <div> 
 <a href = "mailto:vitor.maruyama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
