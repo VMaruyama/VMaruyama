@@ -1,8 +1,25 @@
-# 💫 Dobre mim:
-🔭 Atualmente estou trabalhando como Analista de Infraestrutura Junior<br>🌱 Estou estudando atualmente sobre cultura DEVOPS<br>
+# 💫 Sobre mim:
+🔭 Atualmente estou trabalhando como Analista de Infraestrutura Junior<br>🌱 Estou estudando sobre cultura DEVOPS<br>
 
 
 ## 🌐 Socials:
+
+</div>
+
+ <div> 
+<a href = "mailto:vitor.maruyama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vitor-rikio-rodrigues-maruyama-a2a124200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/vitor.maruyama/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/jmaruyama" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  
+ ![Snake animation](https://github.com/VMaruyama/VMaruyama/blob/output/github-contribution-grid-snake.svg)
+  
+ ![](https://komarev.com/ghpvc/?username=vitormaruyama&color=green)
+  
+  </div>
+ 
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vitor-rikio-rodrigues-maruyama-a2a124200/) 
 
 # 💻 Tech Stack:
